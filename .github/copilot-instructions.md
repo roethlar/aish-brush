@@ -1,3 +1,6 @@
+> **Superseded (2026-07-16).** Brush-specific agent guidance that used to live here (and in the former root `AGENTS.md` agent guide) now lives in `.agents/repo-guidance.md`. Universal agent rules live in `AGENTS.md` (AgentGovernanceBootstrap). This file is retained as history for GitHub Copilot path compatibility and is no longer updated as authority.
+>
+
 # GitHub Copilot Coding Agent Instructions for brush
 
 ## Project Overview
